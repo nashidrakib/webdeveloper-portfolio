@@ -203,3 +203,11 @@ main section {
     margin-top: 50px;
     text-align: center;
 }
+
+/* footer styles */
+footer{
+    margin-top: 100px;
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+}
